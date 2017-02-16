@@ -1,0 +1,11 @@
+a:visited, a:link
+{
+    text-color: '#1323EE';
+    text-decoration: none;
+}
+a:hover, a:active
+{
+    text-color: '#132EEE';
+    text-decoration: '#611216';
+    color: orange;
+}
